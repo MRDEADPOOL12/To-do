@@ -65,11 +65,6 @@ A full-stack todo application built with React, Node.js, TypeScript, and Postgre
    npm run start:frontend
    ```
 
-5. Run tests:
-   ```bash
-   npm test
-   ```
-
 ## Project Structure
 
 ```
